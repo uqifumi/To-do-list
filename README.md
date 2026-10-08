@@ -265,7 +265,7 @@ Project ini dapat digunakan sebagai bahan pembelajaran untuk memahami:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Uqifumi**
 
 Flutter Developer | Mobile Application Development
 
