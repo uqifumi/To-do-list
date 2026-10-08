@@ -16,7 +16,12 @@ Halaman utama menampilkan daftar tugas yang tersimpan di database. Pengguna dapa
 
 Halaman form digunakan untuk menambahkan tugas baru atau mengedit tugas yang sudah ada. Pengguna dapat mengisi judul tugas dan deskripsi tambahan.
 
-<img src="screenshot_01.png" alt="To-Do List Screen" width="150">
+<p align="center">
+  <img src="screenshot_01.png" alt="To-Do List Screen" width="250">
+  &nbsp;&nbsp;
+  <img src="screenshot_02.png" alt="To-Do Form Screen" width="250">
+</p>
+
 
 
 > **Catatan:** Ganti gambar contoh dengan screenshot aplikasi yang sebenarnya. Simpan kedua gambar di folder `screenshots` dengan nama file yang sesuai.
