@@ -10,12 +10,6 @@ Project ini dibuat sebagai contoh penerapan pengembangan aplikasi mobile dengan 
 
 Halaman utama menampilkan daftar tugas yang tersimpan di database. Pengguna dapat melihat judul, deskripsi, tanggal pembuatan, dan status penyelesaian setiap tugas.
 
-![To-Do List Screen](screenshot_01.png)
-
-### 2. Form Tambah Tugas
-
-Halaman form digunakan untuk menambahkan tugas baru atau mengedit tugas yang sudah ada. Pengguna dapat mengisi judul tugas dan deskripsi tambahan.
-
 <p align="center">
   <img src="screenshot_01.png" alt="To-Do List Screen" width="250">
   &nbsp;&nbsp;
@@ -23,6 +17,9 @@ Halaman form digunakan untuk menambahkan tugas baru atau mengedit tugas yang sud
 </p>
 
 
+### 2. Form Tambah Tugas
+
+Halaman form digunakan untuk menambahkan tugas baru atau mengedit tugas yang sudah ada. Pengguna dapat mengisi judul tugas dan deskripsi tambahan.
 
 > **Catatan:** Ganti gambar contoh dengan screenshot aplikasi yang sebenarnya. Simpan kedua gambar di folder `screenshots` dengan nama file yang sesuai.
 
