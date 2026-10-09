@@ -5,17 +5,14 @@ Aplikasi **To-Do List** sederhana yang dikembangkan menggunakan **Flutter dan Da
 Project ini dibuat sebagai contoh penerapan pengembangan aplikasi mobile dengan Flutter, mulai dari pembuatan antarmuka pengguna (GUI), pengelolaan form, navigasi antarlayar, hingga operasi CRUD (*Create, Read, Update, Delete*) menggunakan database lokal.
 
 ## 📱 Screenshots
-
-### 1. Daftar Tugas
-
-Halaman utama menampilkan daftar tugas yang tersimpan di database. Pengguna dapat melihat judul, deskripsi, tanggal pembuatan, dan status penyelesaian setiap tugas.
-
 <p align="center">
   <img src="screenshot_01.png" alt="To-Do List Screen" width="250">
   &nbsp;&nbsp;
   <img src="screenshot_02.png" alt="To-Do Form Screen" width="250">
 </p>
+### 1. Daftar Tugas
 
+Halaman utama menampilkan daftar tugas yang tersimpan di database. Pengguna dapat melihat judul, deskripsi, tanggal pembuatan, dan status penyelesaian setiap tugas.
 
 ### 2. Form Tambah Tugas
 
