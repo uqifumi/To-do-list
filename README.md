@@ -10,6 +10,7 @@ Project ini dibuat sebagai contoh penerapan pengembangan aplikasi mobile dengan 
   &nbsp;&nbsp;
   <img src="screenshot_02.png" alt="To-Do Form Screen" width="250">
 </p>
+
 ### 1. Daftar Tugas
 
 Halaman utama menampilkan daftar tugas yang tersimpan di database. Pengguna dapat melihat judul, deskripsi, tanggal pembuatan, dan status penyelesaian setiap tugas.
